@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annleonn
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning Java and C
+- 🌱 I’m currently learning HTML, JavaScript and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
